@@ -1,32 +1,34 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="India",Sony SAB FHD IN
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15880
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="India",Sony HD IN
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15884
+#EXTINF:0 tvg-id="ext" group-title="India",Star Plus HD US IN
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2814
+#EXTINF:0 tvg-id="Colors.in" group-title="India",Colors TV HD IN
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2856
 #EXTINF:0 tvg-id="ext" group-title="India",&TV FHD IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15879
+#EXTINF:0 tvg-id="Pictures.in" group-title="India",&pictures HD IN
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2867
+#EXTINF:0 tvg-id="ext" group-title="India",ZEE HD VIP IN
+http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43626
 #EXTINF:0 tvg-id="9XJhakaas.in" group-title="India",9X Jhakaas IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2871
 #EXTINF:0 tvg-id="9XM.in" group-title="India",9XM IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2870
-#EXTINF:0 tvg-id="ext" group-title="India",9XM Jalwa IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2869
 #EXTINF:0 tvg-id="ext" group-title="India",9xTashan IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2868
 #EXTINF:0 tvg-id="B4UMusic.in" group-title="India",B4U Music IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2866
-#EXTINF:0 tvg-id="SunMusic.in" group-title="India",SUN Music IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/4739
 #EXTINF:0 tvg-id="MusicIndia.in" group-title="India",Music India IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2840
 #EXTINF:0 tvg-id="ext" group-title="India",B4U Plus IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2841
 #EXTINF:0 tvg-id="MTV.in" group-title="India",MTV IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2842
-#EXTINF:0 tvg-id="Pictures.in" group-title="India",&pictures HD IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2867
 #EXTINF:0 tvg-id="ext" group-title="India",And TV HD IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2865
-#EXTINF:0 tvg-id="Colors.in" group-title="India",Colors TV HD IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2856
-#EXTINF:0 tvg-id="ext" group-title="India",Star Plus HD US IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2814
 #EXTINF:0 tvg-id="ext" group-title="India",Zing TV IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2815
 #EXTINF:0 tvg-id="StarGold.in" group-title="India",Star Gold IN
@@ -38,8 +40,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2821
 #EXTINF:0 tvg-id="SonyPal.in" group-title="India",Sony Pal IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2822
 #EXTINF:0 tvg-id="ext" group-title="India",SetMax2 IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2825
-#EXTINF:0 tvg-id="ext" group-title="India",Sab TV IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2826
 #EXTINF:0 tvg-id="Rishtey.in" group-title="India",Rishtey IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2828
@@ -61,12 +61,8 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5994
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5986
 #EXTINF:0 tvg-id="ext" group-title="India",Rishtey UK IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6011
-#EXTINF:0 tvg-id="ext" group-title="India",Sab TV UK IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/6014
 #EXTINF:0 tvg-id="ext" group-title="India",Sony Max HD UK IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5984
-#EXTINF:0 tvg-id="ext" group-title="India",Sony Sab UK IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5983
 #EXTINF:0 tvg-id="ext" group-title="India",Sony TV Asia UK IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5982
 #EXTINF:0 tvg-id="ext" group-title="India",Sony TV UK IN
@@ -247,10 +243,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/2834
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5898
 #EXTINF:0 tvg-id="ext" group-title="India",Sangat UK IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/5985
-#EXTINF:0 tvg-id="ext" group-title="India",Sony SAB FHD IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15880
-#EXTINF:0 tvg-id="SonyTVHD.in" group-title="India",Sony HD IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15884
 #EXTINF:0 tvg-id="ZeeCinema.in" group-title="India",Zee Cinema FHD IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/15883
 #EXTINF:0 tvg-id="ZeeTVHD.in" group-title="India",Zee TV HD IN
@@ -287,8 +279,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16016
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16032
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="India",Sony MAX IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16036
-#EXTINF:0 tvg-id="SonySAB.in" group-title="India",Sony SAB IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16038
 #EXTINF:0 tvg-id="TenHD.in" group-title="India",Sony Ten 1 FHD IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/16041
 #EXTINF:0 tvg-id="SonyEntertainmentTV.in" group-title="India",Sony TV IN
@@ -319,8 +309,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43595
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43614
 #EXTINF:0 tvg-id="ext" group-title="India",STAR VIJAY HD VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43604
-#EXTINF:0 tvg-id="ext" group-title="India",ZEE HD VIP IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43626
 #EXTINF:0 tvg-id="ext" group-title="India",AND PICTURES VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43625
 #EXTINF:0 tvg-id="ext" group-title="India",COLORS GUJARATI HD VIP IN
@@ -331,8 +319,6 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43622
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43620
 #EXTINF:0 tvg-id="ext" group-title="India",CINEPLEX HD VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43617
-#EXTINF:0 tvg-id="ext" group-title="India",COLORS BANGLA HD VIP IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43616
 #EXTINF:0 tvg-id="ext" group-title="India",COLORS HD VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43615
 #EXTINF:0 tvg-id="ext" group-title="India",COLORS MARATHI HD VIP IN
@@ -353,18 +339,12 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43607
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43606
 #EXTINF:0 tvg-id="ext" group-title="India",STAR SPORTS SELECT 2 FHD VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43605
-#EXTINF:0 tvg-id="ext" group-title="India",MAA TV HD VIP IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43603
 #EXTINF:0 tvg-id="ext" group-title="India",JALSHA MOVIES HD VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43602
-#EXTINF:0 tvg-id="ext" group-title="India",GEMINI TV HD VIP IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43601
 #EXTINF:0 tvg-id="ext" group-title="India",ETV HD VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43600
 #EXTINF:0 tvg-id="ext" group-title="India",D SPORTS VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43599
-#EXTINF:0 tvg-id="ext" group-title="India",ASIANET HD VIP IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43598
 #EXTINF:0 tvg-id="ext" group-title="India",SONY TEN1 HD VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43596
 #EXTINF:0 tvg-id="ext" group-title="India",STAR JALSHA HD VIP IN
@@ -375,5 +355,4 @@ http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/43587
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/89960
 #EXTINF:0 tvg-id="ext" group-title="India VIP",ITN TV LK VIP IN
 http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/89760
-#EXTINF:0 tvg-id="ext" group-title="India VIP",Sri TV LK VIP IN
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/89761
+
